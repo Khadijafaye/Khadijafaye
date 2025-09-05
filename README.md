@@ -3,6 +3,7 @@
 ### I'm currently Work at **Manobi Africa** ***# agCélérant Senegal***
 
 👀 Now I'm a **data analyst and Earth Observation Researcher**
+
 🌱 I’m very interested about:
 - python: pandas, numpy, scipy, Scikit Learn
 - Machine learning,
